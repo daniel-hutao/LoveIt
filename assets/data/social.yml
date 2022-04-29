@@ -46,10 +46,11 @@ telegram:
   Icon:
     Class: fab fa-telegram-plane fa-fw
 
+# https://daniel-hutao.medium.com
 # 007: Medium
 medium:
   Weight: 7
-  Prefix: https://medium.com/
+  Prefix: https://
   Title: Medium
   Icon:
     Class: fab fa-medium fa-fw
