@@ -47,7 +47,7 @@ other = "切换主题"
 
 # === partials/footer.html ===
 [poweredBySome]
-other = "看着我，你是不是感觉到一丝丝疑惑？疑惑至少说明你认识 Hugo！"
+other = "由 {{ .Hugo }} 强力驱动 | 主题 - {{ .Theme }}"
 # === partials/footer.html ===
 
 # === partials/comment.html ===
